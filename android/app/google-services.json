@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "286166263953",
+    "firebase_url": "https://myweather-db62d.firebaseio.com",
+    "project_id": "myweather-db62d",
+    "storage_bucket": "myweather-db62d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286166263953:android:e6f9fb29f2f4b988",
+        "android_client_info": {
+          "package_name": "cf.sampathbalivada.weather.myweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286166263953-n4pu6vn0hcpahab0ip2d4ofhqj83984d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cf.sampathbalivada.weather.myweather",
+            "certificate_hash": "159c533aab3e8a574bce4f6a43c643f881844a6a"
+          }
+        },
+        {
+          "client_id": "286166263953-317keric12hdqcnntoht3vb11perlq1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBewmfI1Bi9tOUyCmRMyBh-XI13ff7qsyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286166263953-317keric12hdqcnntoht3vb11perlq1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
