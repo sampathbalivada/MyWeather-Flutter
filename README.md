@@ -1,16 +1,25 @@
-# myweather
+# My Weather
 
-Weather App with Authentication
+Weather App using OpenWeatherAPI
 
-## Getting Started
+> The iOS code for the application is untouched. Things like the launcher icon and the App name might be different from the Android verison
 
-This project is a starting point for a Flutter application.
+## OpenWeatherAPI
 
-A few resources to get you started if this is your first Flutter project:
+The OpenWeatherAPI will be disabled shortly. Please use your own API Key to build the application.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+You can get your own API Key at [Open Weather API Keys](https://home.openweathermap.org/api_keys)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Flutter
+
+This flutter project can help you understand:
+* Future Builder
+* Future
+* Async Tasks
+* Basic UI Implementation
+
+## TODO
+
+* Settings page for changing API Key
+* Dynamic background
+* Show more weather info
